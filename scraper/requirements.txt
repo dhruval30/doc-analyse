@@ -1,0 +1,4 @@
+playwright>=1.40.0
+pandas>=2.0.0
+asyncio
+nest_asyncio>=1.5.0
